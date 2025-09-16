@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-image",
-      "description": "An abstract image representing DevOps and SRE technologies.",
-      "imageUrl": "https://picsum.photos/seed/abstractions/1200/800",
-      "imageHint": "abstract tech"
+      "description": "A DevOps infinity loop representing the software delivery lifecycle.",
+      "imageUrl": "https://picsum.photos/seed/devops-infinity/1200/800",
+      "imageHint": "devops infinity"
     },
     {
       "id": "content-1",
