@@ -37,7 +37,7 @@ export default function LandingPage() {
                   Your All-In-One DevOps & SRE Coaching Platform
                 </h1>
                 <p className="max-w-[600px] text-lg text-muted-foreground md:text-xl">
-                  Manage content, schedule training, and empower your clients with AI-driven insights. DevRel Hub is the ultimate tool for the modern tech coach.
+                  Manage content, schedule training, and empower your clients with AI-driven insights. Workstation Solutions Ltd is the ultimate tool for the modern tech coach.
                 </p>
                 <div className="flex flex-col gap-4 sm:flex-row">
                   <Button size="lg" asChild>
@@ -207,7 +207,7 @@ export default function LandingPage() {
       <footer className="border-t">
         <div className="container mx-auto flex h-14 items-center justify-between px-4 md:px-6">
           <Logo />
-          <p className="text-sm text-muted-foreground">&copy; {new Date().getFullYear()} DevRel Hub. All rights reserved.</p>
+          <p className="text-sm text-muted-foreground">&copy; {new Date().getFullYear()} Workstation Solutions Ltd. All rights reserved.</p>
         </div>
       </footer>
     </div>

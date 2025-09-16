@@ -3,7 +3,7 @@ import './globals.css';
 import { Toaster } from "@/components/ui/toaster";
 
 export const metadata: Metadata = {
-  title: 'DevRel Hub',
+  title: 'Workstation Solutions Ltd',
   description: 'The all-in-one platform for DevOps & SRE Coaches.',
 };
 

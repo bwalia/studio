@@ -64,7 +64,7 @@ export default function AppHeader() {
               className="group flex h-10 w-10 shrink-0 items-center justify-center gap-2 rounded-full bg-primary text-lg font-semibold text-primary-foreground md:text-base"
             >
               <CodeXml className="h-5 w-5 transition-all group-hover:scale-110" />
-              <span className="sr-only">DevRel Hub</span>
+              <span className="sr-only">Workstation Solutions Ltd</span>
             </Link>
             {navItems.map((item) => (
               <Link
