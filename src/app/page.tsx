@@ -21,7 +21,7 @@ export default function LandingPage() {
             <Link href="#features">Features</Link>
           </Button>
            <Button variant="ghost" asChild>
-            <Link href="#content">Content</Link>
+            <Link href="#videos">Videos</Link>
           </Button>
           <Button variant="ghost" asChild>
             <Link href="#contact">Contact</Link>
@@ -138,14 +138,14 @@ export default function LandingPage() {
           </div>
         </section>
 
-        <section id="content" className="w-full py-20 md:py-32">
+        <section id="videos" className="w-full py-20 md:py-32">
           <div className="container mx-auto grid items-center justify-center gap-4 px-4 text-center md:px-6">
             <div className="space-y-3">
               <h2 className="font-headline text-3xl font-bold tracking-tighter md:text-4xl">
-                Latest Content
+                Latest Videos
               </h2>
               <p className="mx-auto max-w-[600px] text-muted-foreground md:text-xl">
-                Check out some of the latest blog posts and videos.
+                Check out some of our latest videos.
               </p>
             </div>
             <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">
