@@ -2,9 +2,9 @@
   "placeholderImages": [
     {
       "id": "hero-image",
-      "description": "A modern desk setup with multiple monitors displaying code and graphs, representing a DevOps and SRE coaching environment.",
-      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
-      "imageHint": "desk setup"
+      "description": "An abstract image representing DevOps and SRE technologies.",
+      "imageUrl": "https://picsum.photos/seed/devops-sre/1200/800",
+      "imageHint": "DevOps SRE"
     },
     {
       "id": "content-1",
