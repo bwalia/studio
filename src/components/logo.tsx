@@ -15,10 +15,14 @@ export default function Logo() {
   return (
     <Link href="/" className="flex items-center gap-2">
 <<<<<<< HEAD
+<<<<<<< HEAD
       <Image src="/logo-no-bg.png" alt="WorkStation Logo" width={300} height={79} className="text-primary" />
 =======
       <Image src={logoSrc} alt="WorkStation Logo" width={32} height={32} className="text-primary" />
 >>>>>>> 4c07a30 (logo is not showing correct size it is too tiny fix it to render correct)
+=======
+      <Image src={logoSrc} alt="WorkStation Logo" width={300} height={79} className="text-primary" />
+>>>>>>> 8d6d5e8 (Logo fixed)
       <span className="font-headline text-xl font-bold">WorkStation</span>
     </Link>
   );
