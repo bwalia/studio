@@ -139,7 +139,7 @@ export default function LandingPage() {
         </section>
 
         <section id="videos" className="w-full py-20 md:py-32">
-          <div className="container mx-auto grid items-center justify-center gap-4 px-4 text-center md:px-6">
+          <div className="container mx-auto grid items-center justify-center gap-8 px-4 text-center md:px-6">
             <div className="space-y-3">
               <h2 className="font-headline text-3xl font-bold tracking-tighter md:text-4xl">
                 Latest Videos
@@ -174,6 +174,13 @@ export default function LandingPage() {
                   </Card>
                 )
               })}
+            </div>
+            <div className="flex justify-center">
+              <Button asChild>
+                <Link href="https://www.youtube.com/@balinderwalia" target="_blank" rel="noopener noreferrer">
+                  More Videos on YouTube <ArrowRight className="ml-2" />
+                </Link>
+              </Button>
             </div>
           </div>
         </section>
