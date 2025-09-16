@@ -1,3 +1,58 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A modern desk setup with multiple monitors displaying code and graphs, representing a DevOps and SRE coaching environment.",
+      "imageUrl": "https://picsum.photos/seed/hero/1200/800",
+      "imageHint": "desk setup"
+    },
+    {
+      "id": "content-1",
+      "description": "An abstract visualization of a CI/CD pipeline.",
+      "imageUrl": "https://picsum.photos/seed/cicd/600/400",
+      "imageHint": "abstract pipeline"
+    },
+    {
+      "id": "content-2",
+      "description": "A server room with glowing lights, symbolizing cloud infrastructure.",
+      "imageUrl": "https://picsum.photos/seed/cloud/600/400",
+      "imageHint": "server room"
+    },
+    {
+      "id": "content-3",
+      "description": "A person looking at a dashboard with monitoring graphs.",
+      "imageUrl": "https://picsum.photos/seed/monitoring/600/400",
+      "imageHint": "dashboard graphs"
+    },
+    {
+      "id": "content-4",
+      "description": "Illustration of gears working together, representing automation.",
+      "imageUrl": "https://picsum.photos/seed/automation/600/400",
+      "imageHint": "automation gears"
+    },
+    {
+      "id": "content-5",
+      "description": "A diagram showing the relationship between Development and Operations in DevOps.",
+      "imageUrl": "https://picsum.photos/seed/devops/600/400",
+      "imageHint": "devops diagram"
+    },
+    {
+      "id": "content-6",
+      "description": "A video play button overlaid on a technical presentation.",
+      "imageUrl": "https://picsum.photos/seed/video-sre/600/400",
+      "imageHint": "technical presentation"
+    },
+    {
+      "id": "content-7",
+      "description": "A person typing on a laptop, representing writing a blog post.",
+      "imageUrl": "https://picsum.photos/seed/blog-cloud/600/400",
+      "imageHint": "writing laptop"
+    },
+    {
+      "id": "content-8",
+      "description": "A video tutorial on Kubernetes.",
+      "imageUrl": "https://picsum.photos/seed/kubernetes/600/400",
+      "imageHint": "kubernetes tutorial"
+    }
+  ]
 }
