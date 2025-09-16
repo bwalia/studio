@@ -3,8 +3,8 @@
     {
       "id": "hero-image",
       "description": "An abstract image representing DevOps and SRE technologies.",
-      "imageUrl": "https://picsum.photos/seed/devops-sre/1200/800",
-      "imageHint": "DevOps SRE"
+      "imageUrl": "https://picsum.photos/seed/abstractions/1200/800",
+      "imageHint": "abstract tech"
     },
     {
       "id": "content-1",

@@ -52,14 +52,13 @@ export default function LandingPage() {
                   </Button>
                 </div>
               </div>
-              <div className="relative">
+              <div className="relative flex min-h-[300px] items-center justify-center">
                 {heroImage && (
                   <Image
                     src={heroImage.imageUrl}
                     alt={heroImage.description}
-                    width={600}
-                    height={400}
-                    className="mx-auto aspect-video overflow-hidden rounded-xl object-cover"
+                    fill
+                    className="rounded-xl object-cover"
                     data-ai-hint={heroImage.imageHint}
                   />
                 )}
