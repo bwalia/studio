@@ -26,11 +26,6 @@ export default function LandingPage() {
           <Button variant="ghost" asChild>
             <Link href="#contact">Contact</Link>
           </Button>
-          <Button asChild>
-            <Link href="/dashboard">
-              Go to App <ArrowRight className="ml-2 h-4 w-4" />
-            </Link>
-          </Button>
         </nav>
       </header>
       <main className="flex-1">
