@@ -52,7 +52,7 @@ export default function LandingPage() {
                   </Button>
                 </div>
               </div>
-              <div className="relative flex min-h-[300px] items-center justify-center">
+              <div className="relative flex min-h-[300px] items-center justify-center lg:min-h-[400px]">
                 {heroImage && (
                   <Image
                     src={heroImage.imageUrl}
